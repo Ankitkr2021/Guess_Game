@@ -7,7 +7,7 @@ The game gives feedback based on the guess and displays a congratulatory message
 ---
 
 ## 🚀 Live Demo
-👉 [Play the Game Here](https://ankitr2021.github.io/Guess_Game/)
+👉 [Play the Game Here](https://ankitkr2021.github.io/Guess_Game/)
 
 ---
 
